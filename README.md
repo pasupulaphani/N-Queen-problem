@@ -1,4 +1,4 @@
 N-Queen-problem
 ===============
 
-Recursive bactracking
+Recursive backtracking
